@@ -1,3 +1,7 @@
+# Copyright (C) 2026 Dr. Wolfgang Spahn, PHBern
+#
+# MIT License — see LICENSE file for details.
+# If you use this software in academic work, citation of the original author is requested.
 """Structural typed matcher for SymPy ASTs.
 
 Features: exact tree matching, typed metavariables, deterministic bindings.
